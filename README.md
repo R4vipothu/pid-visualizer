@@ -1,4 +1,4 @@
-<img src="assets/icon.svg" width="96" alt="PID visualizer icon">
+<img src="assets/drone-icon.svg" width="96" alt="PID visualizer icon">
 
 # PID Controller Visualizer
 
